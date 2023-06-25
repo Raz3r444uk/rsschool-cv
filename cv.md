@@ -27,6 +27,12 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 * Figma(for web development).
 * Editors: VSCode.
 
+## Education:
+* Frontend-developer 
+    + SkillBox
+    + RS-school
+    + ITMO
+    + Result-school
 
 ## Code example:
 
@@ -42,3 +48,7 @@ function reverse(n) {
 }
 
 ```
+
+## Language skills:
+* Russian (nature)
+* English (B1)
