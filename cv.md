@@ -46,7 +46,6 @@ function reverse(n) {
         return result;
     }
 }
-
 ```
 
 ## Language skills:
