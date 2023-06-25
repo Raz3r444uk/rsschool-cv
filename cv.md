@@ -5,9 +5,9 @@
 ## Contacts:
 
 Phone: 8-927-796-86-18
-Email: raz3r444uk@mail.ru
-Telegram: https://t.me/Raz3r444uk
-Vk: https://vk.com/raz3r444uk
+[Email:](raz3r444uk@mail.ru)
+[Telegram:](https://t.me/Raz3r444uk)
+[Vk:](https://vk.com/raz3r444uk)
 
 ## About myself:
 
