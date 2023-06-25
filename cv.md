@@ -5,9 +5,9 @@
 ## Contacts:
 
 Phone: 8-927-796-86-18  
-[Email:](raz3r444uk@mail.ru)  
-[Telegram:](https://t.me/Raz3r444uk)  
-[Vk:](https://vk.com/raz3r444uk)  
+Mail: [raz3r444uk@mail.ru](raz3r444uk@mail.ru)  
+Telegram: [https://t.me/Raz3r444uk](https://t.me/Raz3r444uk)  
+VK: [https://vk.com/raz3r444uk](https://vk.com/raz3r444uk)  
 
 ## About myself:
 
@@ -26,9 +26,6 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 * Module Bundlers: Gulp.
 * Figma(for web development).
 * Editors: VSCode.
-
-
-
 
 
 ## Code example:
