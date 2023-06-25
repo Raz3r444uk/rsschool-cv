@@ -4,10 +4,10 @@
 
 ## Contacts:
 
-Phone: 8-927-796-86-18
-[Email:](raz3r444uk@mail.ru)
-[Telegram:](https://t.me/Raz3r444uk)
-[Vk:](https://vk.com/raz3r444uk)
+Phone: 8-927-796-86-18  
+[Email:](raz3r444uk@mail.ru)  
+[Telegram:](https://t.me/Raz3r444uk)  
+[Vk:](https://vk.com/raz3r444uk)  
 
 ## About myself:
 
@@ -18,10 +18,17 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 
 ## Skills:
 
-* HTML
-* CSS
-* JavaScript
-* Git
+* HTML.
+* CSS (Preprocessor SCSS, BEM methodology).
+* JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM),JSON.
+* React (little bit).
+* Version control: Git (remote service GitHub).
+* Module Bundlers: Gulp.
+* Figma(for web development).
+* Editors: VSCode.
+
+
+
 
 
 ## Code example:
